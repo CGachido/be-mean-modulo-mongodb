@@ -1,4 +1,5 @@
 # MongoDB - Aula 02 - Exercício
+autor: Cassius Sanches Gachido de Souza
 
 ## Show Dbs
 ```
